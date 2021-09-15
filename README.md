@@ -32,3 +32,8 @@ Viola!
 
 Please let us know via Slack if there are any missing files, etc!
 
+## Support
+
+Are you struggling? Remember that we have tutors available.
+
+![support](./images/support.png)
