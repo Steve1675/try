@@ -13,6 +13,11 @@ https://zoom.us/rec/play/0GOepyD04K_apb6PmHpy9Q_fwZy3PkIgXgsg7FEQzC0wBz-rQzwLaWi
 
 ## Python
 
-### class 2.1
+### class 2.1 - jupyterlab/spyder, variables, conditionals, loops, pseudocode
+
 https://zoom.us/rec/share/TTCwzWNY4SxYkzGl1G82XRNHjkVZOkWe68JPIxyIBwbSTGIYimOW5mopFL4oOzik.JO2uOBdL4_3RGXjH?startTime=1631659512000
+
+### class 2.2 - lists, dicts, functions
+
+https://zoom.us/rec/share/xW8B9ux9bm9BQcmqrYH-m_eIOxduiuqgg5Rjaeh1BFVXkKWFHDvKAssgFs9Xr9PG.49HKf4mhqkw5AHy3?startTime=1631832418000
 
